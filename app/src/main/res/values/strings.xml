@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">lab_BT</string>
+
+    <string name="action_scan">Scan</string>
+
+    <string name="label_device_name">Device name:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="label_led_state">LED state:</string>
+    <string name="label_led_switch">LED switch</string>
+
+    <string name="default_device_name">None</string>
+    <string name="default_device_address">00:00:00:00:00:00</string>
+    <string name="default_connection_state">Disconnected</string>
+    <string name="default_led_state">Off</string>
+
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+
+    <string name="bluetooth_le_not_supported">BLE not supported.</string>
+    <string name="bluetooth_service_not_found">Bluetooth service not found.</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="unknown_device">unknown_device</string>
+</resources>
