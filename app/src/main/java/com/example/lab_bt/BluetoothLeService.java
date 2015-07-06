@@ -113,7 +113,7 @@ public class BluetoothLeService extends Service {
             return false;
         }
 
-        bluetoothGatt = device.connectGatt(this, false, gattCallback);
+        bluetoothGatt = device.connectGatt(this, true, gattCallback);
         return true;
     }
 
